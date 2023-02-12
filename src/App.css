@@ -1,5 +1,25 @@
+body {
+  background-color: black;
+}
+
 .App {
+  text-align: justify;
+  width: 100%;
+  background-size: cover;
+  color: white;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-container > div{
+  width: 100px;
+  margin: 20px;
   text-align: center;
+  line-height: 75px;
+  font-size: 30px;
 }
 
 .App-logo {
