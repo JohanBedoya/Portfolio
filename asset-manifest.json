@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JohanBedoya/Portfolio.git/static/css/main.073c9b0a.css",
+    "main.js": "/JohanBedoya/Portfolio.git/static/js/main.c0a6fe4a.js",
+    "static/js/787.ae0d8d37.chunk.js": "/JohanBedoya/Portfolio.git/static/js/787.ae0d8d37.chunk.js",
+    "static/media/logo.svg": "/JohanBedoya/Portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JohanBedoya/Portfolio.git/index.html",
+    "main.073c9b0a.css.map": "/JohanBedoya/Portfolio.git/static/css/main.073c9b0a.css.map",
+    "main.c0a6fe4a.js.map": "/JohanBedoya/Portfolio.git/static/js/main.c0a6fe4a.js.map",
+    "787.ae0d8d37.chunk.js.map": "/JohanBedoya/Portfolio.git/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0a6fe4a.js"
+  ]
+}
